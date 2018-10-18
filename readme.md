@@ -1,7 +1,7 @@
 # babel-plugin-transform-console-bonify-rocks
 This plugins transform console logs by appending "Bonify rocks" in front of any message.
 
-### Funtionaly Exmaple
+## Functionality exmaple
 
 **In**
 
