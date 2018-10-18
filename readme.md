@@ -22,6 +22,9 @@ console.error("bar");
 npm install babel-plugin-transform-console-bonify-rocks
 
 ## Usage
+
+### Via `webpack.config`
+
 add plugins ["transform-console-bonify-rocks"] to webpack config 
 
 ### Via `.babelrc`
