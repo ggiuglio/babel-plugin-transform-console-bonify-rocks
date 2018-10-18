@@ -1,11 +1,12 @@
 {
   "name": "babel-plugin-transform-console-bonify-rocks",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/ggiuglio/babel-plugin-transform-console-bonify-rocks",
   "author": "",
   "license": "ISC",
   "devDependencies": {
